@@ -122,5 +122,10 @@ body{
     width: 300px;
   } 
 }
+@media (max-width: 300px){
+  .wrapper .card{
+    width: 250px;
+  } 
+}
 /*media-query*/
 
