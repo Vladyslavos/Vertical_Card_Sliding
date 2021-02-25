@@ -111,3 +111,16 @@ body{
   border: 2px solid;
   color: rebeccapurple;
 }
+/*media-query*/
+@media (max-width: 768px){
+  .wrapper .card{
+    width: 400px;
+  } 
+}
+@media (max-width: 500px){
+  .wrapper .card{
+    width: 300px;
+  } 
+}
+/*media-query*/
+
